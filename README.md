@@ -1,0 +1,32 @@
+# Forester、Shallou – Saint (Shallou Remix)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:09.41] She hit me like a saint
+[00:13.95] Caught her face to face
+[00:15.79] In the dark and I
+[00:18.32] Found a place to hide
+[00:22.57] Looking down from planes overnight
+[00:26.65] So tell me what you want from me
+[00:30.72] I can't give more than everything
+[00:35.06] So fog me out of memory
+[00:39.24] And light me like I'm kerosene
+[00:54.24] 
+[00:42.81] Soul survived a suicidal love
+[00:57.31] 
+[00:59.83] Soul survived a suicidal love
+[01:14.33] 
+[01:08.59] Reflected off the pains
+[01:14.73] Tell me that I'm seeing something right
+[01:17.79] Another way to change
+[01:22.11] Is blurring out the black and the white
+[01:26.19] So tell me what you want from me
+[01:30.25] I can't give more than everything
+[01:33.89] So fog me out of memory
+[01:38.78] And light me like I'm kerosene
+[01:53.78] 
+[01:42.96] Soul survived a suicidal love
+[01:57.46] 
+[01:47.41] Soul survived a suicidal love
+```
