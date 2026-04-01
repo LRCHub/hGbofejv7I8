@@ -1,4 +1,4 @@
-# Forester、Shallou – Saint (Shallou Remix)
+# Forester & Shallou – Saint (Shallou Remix)
 
 > **歌詞登録ステータス：同期歌詞あり**
 
