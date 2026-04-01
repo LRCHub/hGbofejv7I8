@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Saint (Shallou Remix)",
+  "base_artist": "Forester & Shallou",
+  "createdAt": "2026-04-01T09:44:41.441898Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Saint (Shallou Remix)",
+      "artist": "Forester",
+      "has_synced": true,
+      "path": "select/01_Saint_(Shallou_Remix)_Forester.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Saint (Shallou Remix)",
+      "artist": "Shallou & Forester",
+      "has_synced": true,
+      "path": "select/02_Saint_(Shallou_Remix)_Shallou_&_Forester.lrc"
+    }
+  ]
+}
